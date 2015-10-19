@@ -1,0 +1,9 @@
+name: immutables
+version: 0.0.1
+description: Immutable wrappers that are recursive, transparent and customizable.
+dependencies:
+  di: any
+  protobuf: any
+  smoke: any
+dev_dependencies:
+  unittest: any
