@@ -15,7 +15,7 @@ library immutables.immutable.test;
 
 import 'package:immutables/immutables.dart';
 import 'package:mock/mock.dart';
-import 'package:unittest/unittest.dart';
+import 'package:test/test.dart';
 
 class Foo {
   int bar;

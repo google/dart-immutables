@@ -16,7 +16,7 @@ library immutables.default_immutables.test;
 import 'package:immutables/immutables.dart';
 import 'package:immutables/src/default_immutable_wrappers.dart';
 import 'package:di/di.dart';
-import 'package:unittest/unittest.dart';
+import 'package:test/test.dart';
 
 class Foo {
   int bar;
