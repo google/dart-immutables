@@ -1,4 +1,4 @@
-# Immutables
+# Immutables [![Build Status](https://travis-ci.org/google/dart-immutables.svg?branch=master)](https://travis-ci.org/google/dart-immutables)
 
 An experiment on wrapping arbitrary values to make them *recursively* immutable.
 
